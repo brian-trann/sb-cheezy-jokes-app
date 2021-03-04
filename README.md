@@ -1,5 +1,4 @@
-### Initialization
+# Springboard Exercises
+## Section 41.3 Class Components
 
-```
-npm install && npm start
-```
+* Exercise refactoring function components into class components
